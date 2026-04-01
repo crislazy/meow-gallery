@@ -1,7 +1,7 @@
 <h1 align="center">Meow Gallery</h1>
 <p align="center"><i>The source code for meowg.code2craft.xyz</i></p>
 
-[Getting Started](#getting-started) | [License](#license) | [Note](#note)
+[Getting Started](#getting-started) | [License](#license)
 
 ## Getting Started
 To get started, run this into your computer's terminal:
@@ -18,6 +18,3 @@ To get started, run this into your computer's terminal:
 
 ## License
 This project’s source code is licensed under the MIT License.
-
-## Note
-An AI agent was used in the development of this website for debugging and fixing the JavaScript code.
